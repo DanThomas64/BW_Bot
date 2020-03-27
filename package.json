@@ -1,0 +1,14 @@
+{
+    "name": "bw-bot",
+    "version": "1.0.0",
+    "description": "BW's very own Bot!",
+    "main": "bwMain.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node .",
+        "lint": "eslint ."
+    },
+    "keywords": [],
+    "author": "BadWolf",
+    "license": "ISC"
+}
